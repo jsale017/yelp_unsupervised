@@ -1,7 +1,8 @@
 yelp_dataset
-businesses.csv
+data/businesses.csv
 bq-key.json
-sampled.csv
-under-sample.csv
+data/sampled.csv
+data/under-sample.csv
 tl_2023_us_state.shp
 tl_2023_us_state.shx
+data
