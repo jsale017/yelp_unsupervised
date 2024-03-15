@@ -1,5 +1,1 @@
-Contributors:
- - Bennett Blanco
- - Sofia Lopez-Somohano
- - Camila Daza: 
- - Jose Salerno [username: jsale017, email:jsale017@bu.edu]
+[README.md](https://github.com/jsale017/yelp_unsupervised/files/14618348/README.md)
